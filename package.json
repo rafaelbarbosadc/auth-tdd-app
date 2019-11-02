@@ -11,7 +11,7 @@
     "faker": "^4.1.0",
     "jsonwebtoken": "^8.5.1",
     "pg": "^7.11.0",
-    "sequelize": "^5.8.9"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "jest": "^24.8.0",
